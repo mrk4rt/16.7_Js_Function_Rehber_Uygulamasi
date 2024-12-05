@@ -1,0 +1,2 @@
+# 16.7_Js_Function_Rehber_Uygulamasi
+Js_Function_Rehber_Uygulamasi
